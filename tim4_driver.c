@@ -1,8 +1,7 @@
 /*
  * tim4_driver.c
  *
- *  Created on: Dec 11, 2020
- *      Author: ahmet
+ *      Author: acakbudak
  */
 
 #include "tim4_driver.h"
